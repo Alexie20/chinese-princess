@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ContentCraft Media</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #fefefe;
+      color: #333;
+    }
+    header {
+      background-color: #800000;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      background: #500000;
+      text-align: center;
+      padding: 1rem;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 1rem;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+    }
+    .highlight {
+      color: #800000;
+      font-weight: bold;
+    }
+    footer {
+      background: #222;
+      color: #ccc;
+      text-align: center;
+      padding: 1rem;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+    }
+    @media (max-width: 600px) {
+      nav {
+        font-size: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>ContentCraft Media</h1>
+  <p>Empowering Brands Through Creative Media</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#services">Services</a>
+  <a href="#values">Values</a>
+  <a href="#goals">Goals</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<div class="container">
+  <section id="about">
+    <h2>About Us</h2>
+    <p>At <span class="highlight">ContentCraft Co</span>, we help businesses and individuals build a strong online presence through strategic social media management. Based in Mindolo-Miseshi, Kitwe, Zambia, we’re passionate about creating real impact through engagement and storytelling.</p>
+    <p><strong>Established:</strong> 17th November, 2024 | <strong>Status:</strong> Sole Proprietorship</p>
+  </section>
+
+  <section>
+    <h2>Mission & Vision</h2>
+    <p><strong>Mission:</strong> To provide reliable, efficient, and professional social media management to our customers, with proven growth.</p>
+    <p><strong>Vision:</strong> To be the leading provider of social media management services, known for exceptional craftsmanship, customer satisfaction, and innovation.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Media Production</li>
+      <li>Branding</li>
+      <li>Content Creation</li>
+      <li>Public Relations</li>
+      <li>Digital Marketing</li>
+    </ul>
+  </section>
+
+  <section id="values">
+    <h2>Core Values</h2>
+    <ul>
+      <li>Creativity & Innovation</li>
+      <li>Excellence</li>
+      <li>Customer-Centric Approach</li>
+    </ul>
+  </section>
+
+  <section id="goals">
+    <h2>Our Goals</h2>
+    <ol>
+      <li>Increase Brand Awareness</li>
+      <li>Manage Audience Engagement</li>
+      <li>Foster Community Building</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Target Audience</h2>
+    <ul>
+      <li>Businesses</li>
+      <li>Media Houses</li>
+      <li>Influencers and Personal Brands</li>
+      <li>NGOs and Government</li>
+      <li>Educational Institutions</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Our Packages</h2>
+    <ul>
+      <li>Basic Package</li>
+      <li>Standard Package</li>
+      <li>Premium Package</li>
+      <li>Custom Package</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Email:</strong> <a href="mailto:salatibenjamin@gmail.com">salatibenjamin@gmail.com</a></p>
+    <p><strong>Phone:</strong> +260770657581 / +260769072814</p>
+    <p><strong>Instagram:</strong> @ContentCraft.Co</p>
+  </section>
+</div>
+
+<footer>
+  <p>&copy; 2025 ContentCraft Media. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
